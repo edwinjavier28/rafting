@@ -24,7 +24,7 @@ func esPrimo(numero int) bool {
 	return true
 }
 
-func main() {
+func primos() {
 	numeros := []int{2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}
 	for _, numero := range numeros {
 		if esPrimo(numero) {
