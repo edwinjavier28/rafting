@@ -1,2 +1,4 @@
-hola
-hi
+package main
+
+// hola
+// hi

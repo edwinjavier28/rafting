@@ -1,2 +1,4 @@
-kayak
-ready
+package main
+
+// kayak
+// ready
