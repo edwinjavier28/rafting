@@ -1,4 +1,7 @@
 package main
 
-// hola
-// hi
+func user(arr []int) []int {
+
+	a := make([]int, 5)
+	return a
+}
