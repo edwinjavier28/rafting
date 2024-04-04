@@ -10,3 +10,6 @@ func cuatro() {
 
 }
 func doce() {}
+func seris() {
+
+}
